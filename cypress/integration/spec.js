@@ -5,5 +5,5 @@ it('works', () => {
     fixture: 'users.json'
   }).as('users')
   cy.visit('/')
-  cy.wait('@users', {timeout: 75000})
+  cy.wait('@users', {timeout: 1800000})
 })
