@@ -1,5 +1,5 @@
 {
-  "fixturesFolder": false,
   "supportFile": false,
-  "pluginsFile": false
+  "pluginsFile": false,
+  "baseUrl": "https://stackblitz.com/edit/nextjs-khpmh3"
 }
